@@ -30,6 +30,7 @@ The core physical models of the simulator have been validated by replicating the
 ```
 venus-airship-concept/
 ├── src                             # Main source code
+│
 │ ├── core                          # Simulation core
 │ │ ├── init.py
 │ │ ├── simulation_engine.py
@@ -45,9 +46,12 @@ venus-airship-concept/
 ├── docs                            # Documentation
 │ ├── ProjectFormulas.pdf           # Full mathematical model
 │ └── DocProg.pdf                   # Program description
+│
 ├── resources                       # Resources (images, data)
+│
 ├── notes                           # Drafts and notes
 │ └── Project Venus Dirigible.docx
+│
 ├── .gitignore
 ├── LICENSE
 ├── README.md                       # This file

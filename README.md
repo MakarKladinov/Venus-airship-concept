@@ -30,30 +30,32 @@ The core physical models of the simulator have been validated by replicating the
 ```
 venus-airship-concept/
 ├── src                             # Main source code
+│
 │ ├── core                          # Simulation core
 │ │ ├── init.py
 │ │ ├── simulation_engine.py
 │ │ ├── structure_calculations.py
 │ │ ├── thermal_calculations.py
 │ │ └── materials.py
-│ ├── ui                            # User interface
-│ │ ├── init.py
-│ │ ├── gui.py
-│ │ ├── plots.py
-│ │ └── results_window.py
-│ └── init.py
+│ └── ui                            # User interface
+│   ├── init.py
+│   ├── gui.py
+│   ├── plots.py
+│   └── results_window.py
+│ 
 ├── docs                            # Documentation
 │ ├── ProjectFormulas.pdf           # Full mathematical model
 │ └── DocProg.pdf                   # Program description
+│
 ├── resources                       # Resources (images, data)
-├── tests                           # Unit tests (future)
+│
 ├── notes                           # Drafts and notes
 │ └── Project Venus Dirigible.docx
+│
 ├── .gitignore
 ├── LICENSE
 ├── README.md                       # This file
-├── requirements.txt                # Python dependencies
-└── main.py                         # Application entry point
+└── requirements.txt                # Python dependencies
 ```
 1.  **Clone the repository:**
     ```bash

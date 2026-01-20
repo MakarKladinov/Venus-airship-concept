@@ -14,7 +14,7 @@ The core physical models of the simulator have been validated by replicating the
 | Parameter | Simulation Result | Venera-13 Reference | Notes |
 | :--- | :--- | :--- | :--- |
 | Heat Shield Mass | ~ 211 kg | ~ 220-230 kg | Close match in TPS sizing |
-| Peak Deceleration | ~ 110 G | ~ 120-140 G | Validated dynamics model |
+| Peak Deceleration | ~ 137 G | ~ 140-150 G | Validated dynamics model |
 | Landing Speed | ~ 6.6 m/s | ~ 7.3 m/s | Validated parachute model |
 
 *This independent validation provides confidence in using this simulator for novel mission concept analysis.*
